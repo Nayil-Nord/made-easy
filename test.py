@@ -5,3 +5,5 @@ print(2+2)
 print("I love pull requests")
 name = "Nayil"
 print(f"Мое имя: {name}")
+
+print(f"Мое имя: {name})
