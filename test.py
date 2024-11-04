@@ -7,4 +7,4 @@ name = "Nayil"
 print(f"Мое имя: {name}")
 print(name)
 
-print(2+5)
+print(2+9)
